@@ -1,0 +1,19 @@
+{
+    "vote_count": 227,
+    "id": 480530,
+    "video": false,
+    "vote_average": 6.7,
+    "title": "Creed II",
+    "popularity": 169.107,
+    "poster_path": "/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
+    "original_language": "en",
+    "original_title": "Creed II",
+    "genre_ids": [
+        18,
+        28
+    ],
+    "backdrop_path": "/8yqLPNwNCtpOPc3XkOlkSMnghzw.jpg",
+    "adult": false,
+    "overview": "Follows Adonis Creed's life inside and outside of the ring as he deals with new found fame, issues with his family, and his continuing quest to become a champion.",
+    "release_date": "2018-11-20"
+}
